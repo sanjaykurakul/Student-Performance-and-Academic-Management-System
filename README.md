@@ -1,1 +1,0 @@
-# Student-Performance-and-Academic-Management-System
